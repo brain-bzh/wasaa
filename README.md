@@ -1,2 +1,2 @@
-# wasaa
-Course material for WASAA at IMT Atlantique
+# Wasaa - Machine learning and Neuroimaging
+Course material for course "Practical machine learning applied to brain signals" at IMT Atlantique
